@@ -1,0 +1,53 @@
+.btn {
+  display: inline-block;
+  color: #fff;
+  background: linear-gradient(129.54deg, #ff7b4e 15.57%, #ff584e 95.03%);
+  font-weight: 600;
+}
+
+.btn__login {
+  padding: 13px 44px;
+  font-weight: 500;
+  font-size: 15px;
+  border-radius: 100px;
+}
+
+.header__btn {
+  padding: 27px 47px;
+  font-size: 25px;
+  border-radius: 27px;
+}
+
+.btn__destinations {
+  padding: 25px 44px;
+  font-size: 20px;
+  border-radius: 27px;
+}
+
+.cta__btn {
+  padding: 25px 54px;
+  font-size: 20px;
+  border-radius: 27px;
+}
+
+.subscribe-form__btn {
+  font-size: 25px;
+  padding: 34px 86px;
+  border-radius: 35px;
+}
+
+.btn:hover {
+  color: #f8d3c7;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+.header__btn a:hover {
+    color: #f8d3c7;
+}
+
+.btn__login-footer:hover {
+    color: #f8d3c7 !important;
+}
