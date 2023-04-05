@@ -341,6 +341,16 @@
   }
   .subscribe-form__imput {
     font-size: 15px;
+    font-size: 16px;
+    text-align: center;
+
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  .subscribe-form {
+    flex-direction: column;
+    row-gap: 10px;
   }
 }
 
